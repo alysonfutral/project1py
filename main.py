@@ -7,7 +7,7 @@ student_data = [ #must be 4x4, 5x5, or 6x6, etc.
     [8, 0, 14, 8], #2
     [9, 1, 15, 8], #3
     [7, 1, 15, 8], #4
-]
+]https://github.com/alysonfutral/project1py.git
 
 #This list game_data corresponds to the labels or output values associated with each set of student features. Each label represents the game recommendation for the respective student in student_data, must maintain array length with matrix length
 game_data = [1, 2, 3, 4] 
